@@ -1,4 +1,4 @@
-<h1 align="center">Rakhib Khan (Hanserq)</h1>
+<h1 align="center">Rakhib (Hanserq)</h1>
 <p align="center">Adventure • Slice of Life • Never give up</p>
 
 <!-- Contribution Snake -->
