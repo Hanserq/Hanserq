@@ -1,30 +1,42 @@
-<p align="center">Adventure • Slice of Life • Never give up</p>
+[![Actions Status](https://github.com/Hanserq/Hanserq/workflows/wakatime-stats/badge.svg)](https://github.com/Hanserq/Hanserq/actions)
+[![Actions Status](https://github.com/Hanserq/Hanserq/workflows/update-gh-activity/badge.svg)](https://github.com/Hanserq/Hanserq/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=Hanserq.Hanserq)
 
-<!-- Featured Work -->
-<h3 align="center"> Projects </h3>
+<!-- Banner (optional) -->
+
 <p align="center">
-  <a href="https://github.com/Hanserq/Hanserq.github.io">Blackout</a> •
+  <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 </p>
 
 
-<!-- Streak stats (clean) -->
 <p align="center">
-  <img height="135" src="https://streak-stats.demolab.com?user=Hanserq&hide_longest_streak=true&mode=weekly&card_width=360&background=00000000"/>
+  <img src="https://socialify.git.ci/Hanserq/Hanserq/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Hanserq" width="700" height="300" />
 </p>
 
-<details>
 <p align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=default&show_offline=true&background_color=d4e3fe&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=86m12v5228197e453dcvh8wte&redirect=true)
-
+<br/>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rakhib-khan-b6ab06325/">
+  <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
+  <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
 </p>
-</details>
 
-<!-- Pac-Man animated contribution graph (auto-updates) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph-dark.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hanserq&theme=onedark&column=-1" />
 </p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanserq&theme=github-dark-dimmed&custom_title=Hanserq%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+
+name: Rakhib Khan (Hanserq)
+located_in: India
+job: Student, B.Tech CSE
+fields_of_interests: ["Web", "APIs", "FastAPI", "Frontend", "Open Source"]
+currently_learning:
+
+```
+
