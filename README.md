@@ -22,11 +22,11 @@
   <a href="https://github.com/Hanserq/Hanserq.github.io">Portfolio</a> •
 </p>
 
-<details>
-  <summary> Now Playing </summary>
-  <p align="center">
-    <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte?si=b8a80d6951e746bf)">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=86m12v5228197e453dcvh8wte?si=b8a80d6951e746bf&cover_image=true&theme=novatorem&background_color=0d1117" height="120"/>
-    </a>
-  </p>
-</details>
+
+###  Now Playing on Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=ff40ff&bar_color_cover=false" height="120" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
