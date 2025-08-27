@@ -1,6 +1,8 @@
-[![Actions Status](https://github.com/Hanserq/Hanserq/workflows/wakatime-stats/badge.svg)](https://github.com/Hanserq/Hanserq/actions)
-[![Actions Status](https://github.com/Hanserq/Hanserq/workflows/update-gh-activity/badge.svg)](https://github.com/Hanserq/Hanserq/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=Hanserq.Hanserq)
+[![wakatime-stats](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml)
+[![update-gh-activity](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Hanserq.Hanserq)
+
 
 <!-- Banner (optional) -->
 
