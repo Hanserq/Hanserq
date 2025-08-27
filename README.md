@@ -1,9 +1,13 @@
 <h1 align="center">Rakhib (Hanserq)</h1>
 <p align="center">Adventure • Slice of Life • Never give up</p>
 
-<!-- Contribution Snake -->
+<!-- Pac-Man animated contribution graph (auto-updates) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanserq/Hanserq/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hanserq/Hanserq/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 <!-- Streak stats (clean) -->
