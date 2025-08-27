@@ -21,3 +21,11 @@
 <p align="center">
   <a href="https://github.com/Hanserq/Hanserq.github.io">Portfolio</a> •
 </p>
+
+<!-- Spotify Now Playing -->
+<h3 align="center">🎶 Now Playing</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" height="120" alt="Now Playing on Spotify"/>
+  </a>
+</p>
