@@ -47,10 +47,12 @@
 
 ```yaml
 
-name: Rakhib Khan (Hanserq)
-located_in: India
-job: Student, B.Tech CSE
-fields_of_interests: ["Web", "APIs", "FastAPI", "Frontend", "Open Source"]
-currently_learning: ["TypeScript", "React"]
+Name: Rakhib (Hanser)
+Location : India
+Job: Student, B.Tech CSE
+F of Interests: ["Web", "APIs", "FastAPI", "Frontend", "Open Source"]
+Learning: ["TypeScript", "React", "Quantum Computing"]
+
+
 
 ```
