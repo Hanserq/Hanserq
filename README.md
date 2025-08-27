@@ -1,15 +1,12 @@
+
 [![wakatime-stats](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml)
 [![update-gh-activity](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hanserq.Hanserq)
 
-
-<!-- Banner (optional) -->
-
 <p align="center">
   <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 </p>
-
 
 <p align="center">
   <img src="https://socialify.git.ci/Hanserq/Hanserq/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Hanserq" width="700" height="300" />
@@ -17,7 +14,7 @@
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rakhib-khan-b6ab06325/">
+<a href="https://www.linkedin.com/in/rakhib-khan-b6ab06325/">
   <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
@@ -38,7 +35,6 @@ name: Rakhib Khan (Hanserq)
 located_in: India
 job: Student, B.Tech CSE
 fields_of_interests: ["Web", "APIs", "FastAPI", "Frontend", "Open Source"]
-currently_learning:
+currently_learning: ["TypeScript", "React"]
 
 ```
-
