@@ -23,10 +23,9 @@
 </p>
 
 
-###  Now Playing on Spotify
 <p align="center">
-  <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=ff40ff&bar_color_cover=false" height="120" alt="Spotify Now Playing"/>
-  </a>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=default&show_offline=true&background_color=d4e3fe&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=86m12v5228197e453dcvh8wte&redirect=true)
+
 </p>
 
