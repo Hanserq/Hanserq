@@ -36,10 +36,6 @@
 <br>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hanserq&theme=onedark&column=-1" />
-</p>
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
