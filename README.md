@@ -1,4 +1,4 @@
-<h1 align="center">Rakhib (Hanserq)</h1>
+<h1 align="center">Rakhib (Hanserq) </h1>
 <p align="center">Adventure • Slice of Life • Never give up</p>
 
 <!-- Pac-Man animated contribution graph (auto-updates) -->
@@ -17,15 +17,16 @@
 
 
 <!-- Featured Work -->
-<h3 align="center">🚀 Selected Projects</h3>
+<h3 align="center"> Selected Projects </h3>
 <p align="center">
   <a href="https://github.com/Hanserq/Hanserq.github.io">Portfolio</a> •
 </p>
 
-<!-- Spotify Now Playing -->
-<h3 align="center">🎶 Now Playing</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" height="120" alt="Now Playing on Spotify"/>
-  </a>
-</p>
+<details>
+  <summary> Now Playing </summary>
+  <p align="center">
+    <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte?si=b8a80d6951e746bf)">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=86m12v5228197e453dcvh8wte?si=b8a80d6951e746bf&cover_image=true&theme=novatorem&background_color=0d1117" height="120"/>
+    </a>
+  </p>
+</details>
