@@ -20,6 +20,19 @@
 <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
   <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
+
+  <h3 align="center">now playing on spotify</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=86m12v5228197e453dcvh8wte&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&bar_color=ff40ff&bar_color_cover=true&cache_seconds=300"
+      alt="spotify now playing"
+      height="130"
+      loading="lazy"
+    />
+  </a>
+</p>
+
 <br>
 </p>
 
