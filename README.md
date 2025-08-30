@@ -37,10 +37,10 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Hanserq/Hanserq.github.io/pull/4) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-2. 💪 Opened PR [#4](https://github.com/Hanserq/Hanserq.github.io/pull/4) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-3. 🎉 Merged PR [#2](https://github.com/Hanserq/Edu-Mesh/pull/2) in [Hanserq/Edu-Mesh](https://github.com/Hanserq/Edu-Mesh)
-4. 🎉 Merged PR [#1](https://github.com/Hanserq/Edu-Mesh/pull/1) in [Hanserq/Edu-Mesh](https://github.com/Hanserq/Edu-Mesh)
+1. 🎉 Merged PR [#7](https://github.com/Hanserq/Hanserq.github.io/pull/7) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+2. 💪 Opened PR [#7](https://github.com/Hanserq/Hanserq.github.io/pull/7) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+3. 🎉 Merged PR [#6](https://github.com/Hanserq/Hanserq.github.io/pull/6) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+4. 💪 Opened PR [#6](https://github.com/Hanserq/Hanserq.github.io/pull/6) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanserq&theme=github-dark-dimmed&custom_title=Hanserq%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
