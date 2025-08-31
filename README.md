@@ -37,10 +37,10 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Hanserq/Hanserq.github.io/pull/9) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-2. 💪 Opened PR [#9](https://github.com/Hanserq/Hanserq.github.io/pull/9) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-3. 🎉 Merged PR [#8](https://github.com/Hanserq/Hanserq.github.io/pull/8) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-4. 💪 Opened PR [#8](https://github.com/Hanserq/Hanserq.github.io/pull/8) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+1. 🎉 Merged PR [#10](https://github.com/Hanserq/Hanserq.github.io/pull/10) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+2. ❌ Reopened PR [#10](https://github.com/Hanserq/Hanserq.github.io/pull/10) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+3. ❌ Closed PR [#10](https://github.com/Hanserq/Hanserq.github.io/pull/10) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
+4. 💪 Opened PR [#10](https://github.com/Hanserq/Hanserq.github.io/pull/10) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanserq&theme=github-dark-dimmed&custom_title=Hanserq%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
