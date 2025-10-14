@@ -4,9 +4,9 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hanserq.Hanserq)
 
-<p align="center">
+<!-- <p align="center">
   <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://socialify.git.ci/Hanserq/Hanserq/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Hanserq" width="700" height="300" />
@@ -50,8 +50,8 @@
 Name: Rakhib (Hanser)
 Location : India
 Job: Student, B.Tech CSE
-F of Interests: ["Web", "APIs", "FastAPI", "Frontend", "Open Source"]
-Learning: ["TypeScript", "React", "Quantum Computing"]
+F of Interests: ["Web", "APIs", "Open Source"]
+Learning: ["Go", "Python", "Quantum Computing"]
 
 
 
