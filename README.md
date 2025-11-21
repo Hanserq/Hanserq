@@ -1,6 +1,9 @@
 
 [![wakatime-stats](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/wakatime-stats.yml)
+<!--START_SECTION:activity-->
 [![update-gh-activity](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/Hanserq/Hanserq/actions/workflows/update-gh-activity.yml)
+<!--END_SECTION:activity-->
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hanserq.Hanserq)
 
