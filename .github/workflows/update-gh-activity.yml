@@ -2,14 +2,14 @@ name: update-gh-activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write    
 
     steps:
       - uses: actions/checkout@v4
@@ -19,10 +19,11 @@ jobs:
         with:
           GH_USERNAME: Hanserq
           COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 5
+          README_FILE: "README.md"
+          SECTION_NAME: "activity"
           COMMIT_NAME: "github-actions[bot]"
           COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
-          MAX_LINES: 5
-          TARGET_FILE: "README.md"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
