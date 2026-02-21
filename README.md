@@ -50,9 +50,7 @@
 
 Name: Rakhib (Hanser)
 Location : India
-Job: Student, B.Tech CSE
-F of Interests: ["Web", "APIs", "Open Source"]
-Learning: ["Go", "Python", "Quantum Computing"]
+Status : Student, B.Tech CSE
 
 
 
