@@ -36,7 +36,6 @@
 4. 💪 Opened PR [#10](https://github.com/Hanserq/Hanserq.github.io/pull/10) in [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
 <!--END_SECTION:activity-->
 
-*(Note: The activity will update automatically as soon as you push this code and GitHub Actions runs!)*
 
 <br/>
 
@@ -49,7 +48,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hanserq/Hanserq/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-*(Note: The snake animation will appear as soon as you push this code and run the Generate Snake action!)*
 
 <br/>
 <br/>
