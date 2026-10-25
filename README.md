@@ -1,9 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1200&color=1ED760&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Rakhib+Khan;Full-Stack+Engineer;Building+Scalable%2C+Fast+%26+Aesthetic+Apps;Open+Source+%26+Distributed+Systems" alt="Typing SVG" />
-
-  <br/>
+  <h1>Rakhib Khan</h1>
 
   <!-- Profile Badges & Social Links -->
   <p align="center">
@@ -16,8 +13,8 @@
     <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify" />
     </a>
-    <a href="mailto:rakhibkhan712@gmail.com">
-      <img src="https://img.shields.io/badge/Email-rakhibkhan712%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <a href="mailto:hanser0110@proton.me">
+      <img src="https://img.shields.io/badge/Email-hanser0110%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email" />
     </a>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://visitor-badge.laobi.icu/badge?page_id=Hanserq.Hanserq&left_color=0d1117&right_color=1ED760">
@@ -166,7 +163,7 @@ hobbies: [Music curation, Tech research, Building micro-tools]
 
 [![Website](https://img.shields.io/badge/Personal_Site-rakhib.link-1ED760?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rakhib.link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhib-khan-b6ab06325/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakhibkhan712@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hanser0110@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanserq)
 
 <br/>
