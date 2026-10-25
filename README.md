@@ -7,7 +7,7 @@
     <a href="https://rakhib.link" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-rakhib.link-1ED760?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website" />
     </a>
-    <a href="https://www.linkedin.com/in/rakhib-khan-b6ab06325/" target="_blank">
+    <a href="https://www.linkedin.com/in/rakhib-hanser/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Rakhib_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
     </a>
     <a href="https://open.spotify.com/user/86m12v5228197e453dcvh8wte" target="_blank">
@@ -167,7 +167,7 @@ hobbies: [Music curation, Tech research, Building micro-tools]
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Personal_Site-rakhib.link-1ED760?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rakhib.link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhib-khan-b6ab06325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhib-hanser/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hanser0110@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanserq)
 
