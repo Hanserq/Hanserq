@@ -2,27 +2,71 @@ name: update-gh-activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write    
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Update Recent Activity
+        uses: actions/github-script@v7
         with:
-          GH_USERNAME: Hanserq
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 5
-          README_FILE: "README.md"
-          SECTION_NAME: "activity"
-          COMMIT_NAME: "github-actions[bot]"
-          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const res = await github.rest.activity.listPublicEventsForUser({
+              username: 'Hanserq',
+              per_page: 30
+            });
+            const lines = [];
+            const seen = new Set();
+            for (const e of res.data) {
+              if (lines.length >= 5) break;
+              const repoName = e.repo?.name;
+              const repoUrl = `https://github.com/${repoName}`;
+              let text = "";
+              if (e.type === "PushEvent") {
+                const count = e.payload?.commits?.length || e.payload?.size || 1;
+                const key = `push-${repoName}`;
+                if (seen.has(key)) continue;
+                seen.add(key);
+                text = `Pushed commits to [${repoName}](${repoUrl})`;
+              } else if (e.type === "PullRequestEvent") {
+                const pr = e.payload?.pull_request;
+                text = `${e.payload.action} PR [#${pr?.number}](${pr?.html_url}) in [${repoName}](${repoUrl})`;
+              } else if (e.type === "IssuesEvent") {
+                const issue = e.payload?.issue;
+                text = `${e.payload.action} issue [#${issue?.number}](${issue?.html_url}) in [${repoName}](${repoUrl})`;
+              } else if (e.type === "CreateEvent") {
+                text = `Created ${e.payload.ref_type} \`${e.payload.ref || ""}\` in [${repoName}](${repoUrl})`;
+              } else if (e.type === "WatchEvent") {
+                text = `Starred [${repoName}](${repoUrl})`;
+              }
+              if (text) lines.push(`- ${text}`);
+            }
+            if (lines.length > 0) {
+              const content = fs.readFileSync('README.md', 'utf8');
+              const startTag = '<!--START_SECTION:activity-->';
+              const endTag = '<!--END_SECTION:activity-->';
+              const startIndex = content.indexOf(startTag);
+              const endIndex = content.indexOf(endTag);
+              if (startIndex !== -1 && endIndex !== -1) {
+                const newContent = content.substring(0, startIndex + startTag.length) +
+                  '\n' + lines.join('\n') + '\n' +
+                  content.substring(endIndex);
+                fs.writeFileSync('README.md', newContent, 'utf8');
+              }
+            }
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update recent activity"
+          git push
