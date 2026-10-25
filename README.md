@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1200&color=1ED760&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Rakhib+Khan;Full-Stack+Engineer+%26+CS+Student;Building+Scalable%2C+Fast+%26+Aesthetic+Apps;Open+Source+%26+Distributed+Systems+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1200&color=1ED760&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Rakhib+Khan;Full-Stack+Engineer;Building+Scalable%2C+Fast+%26+Aesthetic+Apps;Open+Source+%26+Distributed+Systems" alt="Typing SVG" />
 
   <br/>
 
@@ -34,27 +34,27 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 ```yaml
 name: Rakhib Khan
 handle: Hanserq
 role: Full-Stack Engineer & CS Student
-location: India 🇮🇳
+location: India
 interests: [Distributed Systems, High-Performance Web, Modern UI/UX, Cloud & DevOps, Computer Vision]
 currently_learning: [Advanced System Design, Microservices, Cloud Native Patterns]
-hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
+hobbies: [Music curation, Tech research, Building micro-tools]
 ```
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering (CSE).
-- 💻 **Core Focus**: Building end-to-end full stack web applications with emphasis on reliability, low-latency, and fluid user interactions.
-- ⚙️ **Under the Hood**: Deep curiosity for message brokers (Kafka), real-time pipelines, caching strategies, and robust backend engineering.
-- 🎨 **Frontend Craft**: Obsessed with smooth animations, intuitive UX, micro-interactions, and responsive design systems.
-- 💬 **Ask me about**: JavaScript/TypeScript, Next.js, Node.js, Python, System Architecture, or modern CSS.
+- **Education**: B.Tech in Computer Science & Engineering (CSE).
+- **Core Focus**: Building end-to-end full stack web applications with emphasis on reliability, low latency, and fluid user interactions.
+- **Under the Hood**: Deep curiosity for message brokers (Kafka), real-time pipelines, caching strategies, and robust backend engineering.
+- **Frontend Craft**: Focused on smooth animations, intuitive UX, micro-interactions, and responsive design systems.
+- **Ask me about**: JavaScript/TypeScript, Next.js, Node.js, Python, System Architecture, or modern CSS.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,express,kafka,postgres,mongodb,redis,docker,git,linux,postman&perline=16&theme=dark" alt="Skill Icons Strip" />
@@ -65,7 +65,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>💻 Languages</b><br/><br/>
+      <b>Languages</b><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -73,7 +73,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
       <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>🎨 Frontend & UI</b><br/><br/>
+      <b>Frontend & UI</b><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -83,7 +83,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>⚙️ Backend & Architecture</b><br/><br/>
+      <b>Backend & Architecture</b><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
@@ -92,7 +92,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>🛠️ DevOps & Tools</b><br/><br/>
+      <b>DevOps & Tools</b><br/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -104,7 +104,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hanserq&show_icons=true&title_color=1ED760&icon_color=1ED760&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Rakhib's GitHub Stats" />
@@ -121,7 +121,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 
 <div align="center">
 
-### 🐍 Contribution Graph
+### Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanserq/Hanserq/output/github-contribution-grid-snake.svg">
@@ -132,26 +132,23 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 
 ---
 
-### 🌟 Featured Projects & Highlights
+### Featured Projects
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :--- |
 | **Saya Showcase** | `Next.js`, `TypeScript`, `CSS Modules` | High-fidelity interactive design showcase & smooth web experiences | [Repository](https://github.com/Hanserq/saya-showcase) |
 | **Blackout** | `JavaScript`, `Full-Stack` | Full-stack interactive experience and web platform | [Repository](https://github.com/Hanserq/Blackout) |
-| **Fingertips** | `Python`, `Computer Vision` | Gesture and fingertip tracking experiments and computer vision pipelines | [Repository](https://github.com/Hanserq/Fingertips) |
-| **VegSoup** | `Creative Web`, `Portfolio` | Clean personal blog & daily tech thoughts journal | [Repository](https://github.com/Hanserq/VegSoup) |
-| **Portfolio** | `HTML5`, `CSS3`, `JavaScript` | Personal website & work showcase | [rakhib.link](https://rakhib.link) |
 
 ---
 
-### 💻 Recent GitHub Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 🎵 In The Loop & Now Playing
+### Now Playing
 
 <div align="center">
   <picture>
@@ -163,7 +160,7 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 
 ---
 
-### 🤝 Connect With Me
+### Connect
 
 <div align="center">
 
@@ -177,7 +174,5 @@ hobbies: [Music curation 🎧, Reading tech specs, Building micro-tools]
 ```
 "Turning complex logic into sleek, effortless experiences."
 ```
-
-⭐ *Thanks for stopping by! Feel free to explore my repositories and drop a star if you find something useful.*
 
 </div>
