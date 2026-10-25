@@ -4,15 +4,20 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -20,12 +25,18 @@ jobs:
           github_user_name: Hanserq
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#1ED760
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Generate pacman-contribution-graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Hanserq
+        continue-on-error: true
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
