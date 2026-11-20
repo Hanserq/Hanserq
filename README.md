@@ -144,7 +144,6 @@ hobbies: [Music curation, Tech research, Building micro-tools]
 - Pushed commits to [Hanserq/Hanserq](https://github.com/Hanserq/Hanserq)
 - Pushed commits to [Hanserq/Blackout](https://github.com/Hanserq/Blackout)
 - Pushed commits to [Hanserq/Hanserq.github.io](https://github.com/Hanserq/Hanserq.github.io)
-- Pushed commits to [Hanserq/z-axis](https://github.com/Hanserq/z-axis)
 <!--END_SECTION:activity-->
 
 ---
